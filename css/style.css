@@ -1,0 +1,31 @@
+body
+{
+    background-color: pink;
+    color: white;
+     
+    }
+h1 {
+    font-size: 80px;
+     color: red;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.card {
+    display: flex;
+}
+h2 {
+    font-size: 30px;
+    font-family: 'Libre Baskerville', serif;
+}
+
+#louise {
+    border-radius: 100%;
+    width: 300px;
+    border: 2px solid black;
+    margin-left: 400px;
+}
+#article {
+    border-radius: 2%;
+    width: 1400px;
+
+}
